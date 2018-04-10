@@ -3,6 +3,8 @@ package com.company;
 /**
  * @author James Kiernan
  * @version 0.0.1
+ *
+ * #TODO: Finish getters and setters for this class.
  */
 enum TeamType{INTERNATIONAL, CLUB}
 
